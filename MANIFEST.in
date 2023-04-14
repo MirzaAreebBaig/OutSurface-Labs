@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include outsurfacelabs *.css
+recursive-include outsurfacelabs *.csv
+recursive-include outsurfacelabs *.html
+recursive-include outsurfacelabs *.ico
+recursive-include outsurfacelabs *.js
+recursive-include outsurfacelabs *.json
+recursive-include outsurfacelabs *.md
+recursive-include outsurfacelabs *.png
+recursive-include outsurfacelabs *.py
+recursive-include outsurfacelabs *.svg
+recursive-include outsurfacelabs *.txt
+recursive-exclude outsurfacelabs *.pyc
