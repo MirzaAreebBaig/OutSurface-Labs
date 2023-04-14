@@ -9,7 +9,7 @@ app_license = "MIT"
 
 # Includes in <head>
 # ------------------
-
+fixtures = ['Patient','Customer Group',]
 # include js, css files in header of desk.html
 # app_include_css = "/assets/outsurfacelabs/css/outsurfacelabs.css"
 # app_include_js = "/assets/outsurfacelabs/js/outsurfacelabs.js"
